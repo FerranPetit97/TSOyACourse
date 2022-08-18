@@ -1,0 +1,29 @@
+{
+  "name": "typescriptoyacourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FerranPetit97/TypeScriptOyACourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FerranPetit97/TypeScriptOyACourse/issues"
+  },
+  "homepage": "https://github.com/FerranPetit97/TypeScriptOyACourse#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.4.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "class-validator": "^0.13.2"
+  }
+}
